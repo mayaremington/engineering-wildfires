@@ -12,5 +12,5 @@
 [2) Cleaning](2_engineering_fires_EDA.ipynb)    
 
 **Other links:**  
-[Web app .py file](fire_app.py)
+[Web app .py file](fire_app.py)  
 [Presentation slides](engineering_wildfires.pdf)
