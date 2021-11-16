@@ -9,8 +9,8 @@
 
 **Jupyter notebooks:**  
 [1) Webscraping](1_engineering_fires_webscraping.ipynb)  
-[2) Cleaning](2_engineering_fires_EDA.ipynb)    
+[2) Cleaning](2_engineering_fires_cleaning.ipynb)    
 
 **Other links:**  
-[Web app .py file](fire_app.py)  
+[Web app Python script](fire_app.py)  
 [Presentation slides](engineering_wildfires.pdf)
