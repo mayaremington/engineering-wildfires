@@ -1,2 +1,0 @@
-
-The aim of this project is to create a user-friendly dashboard of wildfires in the state of California from 2013-2020. I obtained my data by web scraping the CalFire site. This yielded a total of 1891 fires over the 8 year period. I have converted my pandas dataframe to a SQL database. And I have used streamlit to create a simple app that graphs the number of wildfires per year. Next, I will create a more complex app with streamlit and will put the app on the web using Heroku.
