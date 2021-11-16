@@ -7,7 +7,7 @@
 
 <img width="1031" alt="image" src="https://user-images.githubusercontent.com/79233614/141921811-8acd4b28-f154-490f-bde6-a63d081d0043.png">
 
-For more figures, check out this project's [presentation slides](engineering_wildfires.pdf)!  
+For more, check out this project's [presentation slides](engineering_wildfires.pdf)!  
 
 **Code**  
 - Jupyter notebooks:  
